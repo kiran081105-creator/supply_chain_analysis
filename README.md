@@ -161,27 +161,3 @@ Central Africa, Eastern Asia, and West Africa have the longest average shipping 
 
 Same Day and First Class modes are the fastest and most consistent
 
-📦 Supply-Chain-Delivery-Prediction
-│
-├── data/
-│   └── DataCoSupplyChainDataset.csv
-│
-├── notebooks/
-│   ├── Late_Delivery_Prediction.ipynb
-│   └── Shipping_Time_Prediction.ipynb
-│
-├── models/
-│   ├── late_delivery_model.pkl
-│   └── shipping_time_model.pkl
-│
-├── powerbi/
-│   └── SupplyChain_Dashboard.pbix
-│
-├── images/
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   ├── shipping_mode_boxplot.png
-│   └── region_shipping_time.png
-│
-└── README.md
-
